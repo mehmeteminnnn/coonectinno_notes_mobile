@@ -30,7 +30,7 @@ Ekran görüntüleri ve tanıtım videosu drive'ın içindedir.İyi günler dile
 
 
 Detaylar İçin:
-Mehmet Emin Tok
-mhmtmntok@gmail.com
-+90 534 211 91 55
+**Mehmet Emin Tok
+**mhmtmntok@gmail.com
+**+90 534 211 91 55
 ```
