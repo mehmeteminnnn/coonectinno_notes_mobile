@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "70881571572",
+    "project_id": "connectinno-notes-baea3",
+    "storage_bucket": "connectinno-notes-baea3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70881571572:android:173c3b9d7aeb0b98d424a1",
+        "android_client_info": {
+          "package_name": "com.connectinno.notes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2JkHy4JqRiEL5s_Nmp-H13o4N_EH-qLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
